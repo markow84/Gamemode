@@ -1,0 +1,8 @@
+name: Gamemode
+main: pl.vatiaz.core.CorePlugin
+version: 1.0
+  
+commands:
+  gamemode:
+    description: Zmienia tryb gry gracza
+    usage: /<command> [0|1|2|3]
